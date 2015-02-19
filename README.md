@@ -7,13 +7,13 @@ An unofficial Bower package for OpenLayers 3 (https://github.com/openlayers/ol3)
 After you've installed Bower with `$ npm install -g bower` and created a `bower.json` with `$ bower init`:
 
 ~~~
-$ bower install --save hastebrot/ol3-dist
+$ bower install --save bensleveritt/ol3-dist
 ~~~
 
-You can install a certain version using a Git tag (https://github.com/hastebrot/ol3-dist/tags):
+You can install a certain version using a Git tag (https://github.com/bensleveritt/ol3-dist/tags):
 
 ~~~
-$ bower install --save hastebrot/ol3-dist#3.1.1
+$ bower install --save bensleveritt/ol3-dist#3.2.1
 ~~~
 
 ## License
